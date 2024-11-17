@@ -31,5 +31,3 @@ A force de faire des raccordement aux switchs, les baies informatiques de la DSI
 <b>Synthèse :</b>
 </br>
 Projet abandonné après le recensement de toutes les prises réseaux (troisième étape).
-
-(Outils utilisés :)

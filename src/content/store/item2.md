@@ -22,7 +22,6 @@ Développer un portfolio regroupant :
 - La présentation de mon entreprise d'acceuil
 - Les projets réalisés en CFA et en entreprise
 - Mes certifications obtenus lors des 2 ans
-- Ma veille informatique
 
 <b>Outils utilisés :</b> 
 </br>

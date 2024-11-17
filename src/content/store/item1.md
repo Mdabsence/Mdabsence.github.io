@@ -37,7 +37,7 @@ Face à l'augmentation de l'utilisation des vélos en libre-service à Paris et 
 
 3. API<p class="carousel-subheader">Les données des stations sont disponibles via l'API de Velib .</p>
 
-
+<a class="btn" href="/maquette.png" target="_blank"> Maquette du projet réalisée sur yEd </a>
 
 <style>
   .carousel-subheader {
